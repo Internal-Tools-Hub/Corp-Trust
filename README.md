@@ -1,2 +1,2 @@
 # CorpSecurity
-Corporate Security Communication System
+Corporate Trust & Security Communication System
