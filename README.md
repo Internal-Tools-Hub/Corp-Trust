@@ -1,2 +1,2 @@
-# CorpSecurity
+# CorpTrust
 Corporate Trust & Security Communication System
