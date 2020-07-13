@@ -1,2 +1,5 @@
 # Corp-Trust
-Corporate Trust & Security Communication System
+
+Coming Soon.
+
+Open Source Corporate Trust & Security Communication System
